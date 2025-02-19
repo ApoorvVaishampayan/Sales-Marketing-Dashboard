@@ -1,6 +1,7 @@
 # 🚀 Sales & Marketing Dashboard in Power BI
 
-![Dashboard Screenshot](path/to/your/image.png)
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjU1YTViMTAtNjY4Ni00ZDE0LTgyMjEtYjMwYTI0ZjI1ZDk4IiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9)
+
 
 ## 🎉 Overview
 This project is a **Sales & Marketing Dashboard** created in Power BI, using real-world sales data to provide actionable insights for business decision-making. This isn’t your average dashboard—it's a fully interactive tool designed to highlight key metrics, track trends, and empower strategic decisions across sales and marketing. 
